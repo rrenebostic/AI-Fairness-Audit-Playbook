@@ -1,4 +1,4 @@
-## AI Fairness Audit: Validation Framework
+# AI Fairness Audit: Validation Framework #
 
 ## Introduction ##
 
