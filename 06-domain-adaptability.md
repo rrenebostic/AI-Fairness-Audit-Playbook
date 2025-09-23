@@ -1,4 +1,4 @@
-## AI Fairness Audit: Domain Adaptability 
+# AI Fairness Audit: Domain Adaptability #
 
 ## Introduction ##
 
