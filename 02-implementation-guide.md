@@ -1,4 +1,4 @@
-## AI Fairness Audit: Implementation Guide
+# AI Fairness Audit: Implementation Guide #
 
 ##  Introduction ##
 
