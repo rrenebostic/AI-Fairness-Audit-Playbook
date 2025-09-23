@@ -3,7 +3,7 @@ This cohesive Fairness Audit Playbook systematically evaluates AI systems for bi
 
 ## Overview ##
 
-This playbook integrates four core componentsnto a cohesive workflow that enables engineering teams to systematically audit AI systems for fairness. The components are: (1) Historical Context Assessment, (2) Fairness Definition Selection, (3) Bias Source Identification, and (4) Fairness Metrics.
+This playbook integrates four core components into a cohesive workflow that enables engineering teams to systematically audit AI systems for fairness. The components are: (1) Historical Context Assessment, (2) Fairness Definition Selection, (3) Bias Source Identification, and (4) Fairness Metrics.
 
 ## Contents ##
 
@@ -41,13 +41,13 @@ Insights on continuous improvement and how the playbook can be enhanced over tim
 
 ## Getting Started ##
 
-1. Begin with the Framework Integration to understand how the components work together.
+1. Begin with the **Component Integration Workflow** to understand how outputs from each component feed into subsequent ones.
    
-2. Review the Implementation Guide for practical usage instructions.
+2. Review the **Implementation Guide** to understand how to use the playbook.
    
-3. Examine the Case Study to see the playbook applied in practice.
+3. Examine the **Case Study** that demonstrates the application of the playbook to a typical Employment Screening fairness problem.
    
-4. Adapt the framework using Domain Adaptability guidelines for your specific context.
+4. Adapt the framework using **Domain Adaptability** as a roadmap to transform AI fairness from a purely technical exercise into a sociotechnical practice that addresses domain specific inequities.
    
 ## Target Audience ##
 
@@ -61,7 +61,7 @@ Insights on continuous improvement and how the playbook can be enhanced over tim
 
 •	Standardize fairness evaluation across AI systems.
 
-•	Enable teams to conduct assessments independently.
+•	Enable teams to conduct assessments with confidence.
 
 •	Balance scientific rigor with practical usability.
 
