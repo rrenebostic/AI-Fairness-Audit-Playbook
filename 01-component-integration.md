@@ -11,69 +11,58 @@ Our proposed Fairness Audit Playbook provides a systematic four-component framew
 
 •	**Fairness Metrics** translates selected definitions into quantitative measurements with statistical validation and confidence intervals.
 <br/>
+<br/>
 
-<img width="1911" height="756" alt="image" src="https://github.com/user-attachments/assets/5ae5c6f2-06cd-49e3-8b62-53f848e66fb5" />
+<img width="1715" height="354" alt="image" src="https://github.com/user-attachments/assets/dc02680f-7b8a-4561-b585-1894f0c1ccca" />
 
-## Integration Points ##
+<br/>
+<br/>
 
-The workflow ensures each component builds systematically on previous outputs. Historical patterns directly inform fairness definition priorities, selected definitions focus bias detection efforts, and priority bias sources determine targeted metric implementation. This ensures teams address underlying discrimination patterns rather than only fixing surface-level disparities.
-These three integration points create a cohesive analytical chain that prevents compartmentalized fairness assessments. 
+The image above depicts the Component Integration Workflow with three integration points and respective outputs: (1) Historical Patterns, (2) Definition Selection, and (3) Bias Source Prioritization.
 
-First, **historical patterns** provide empirical foundation by documenting actual discrimination mechanisms rather than theoretical concerns, ensuring relevance to real-world contexts. 
+## Component 1: Historical Context Assessment Tool ##
 
-Second, **selected definitions** translate historical evidence into actionable fairness criteria, preventing arbitrary metric selection that may miss domain-specific risks. 
+The Historical Context Assessment Tool serves as the foundational anchor, producing ***Historical Patterns*** that document domain-specific discrimination mechanisms with empirical evidence. The primary outputs include: 
 
-Third, **priority bias sources** focus limited assessment resources on bias entry points most likely to violate chosen fairness definitions, maximizing intervention effectiveness. 
+- **Gender Bias** patterns such as documented disparities in hiring, promotion, or performance evaluation systems that systematically disadvantaged women in technical roles. 
 
-This sequential dependency ensures each decision is informed by concrete evidence from previous phases rather than intuition or general best practices. The integration points were specifically designed to maintain scientific rigor while remaining implementable by engineering teams, creating accountability through documented decision rationales and preventing fairness theater that addresses visible metrics without tackling systematic discrimination.
+- **Age Discrimination** patterns capture documented instances where older workers faced systematic exclusion from technology positions or received lower performance ratings despite equivalent qualifications. 
 
-## Decision Gates ## 
+- **Proxies for Socioeconomic Status** identify indirect discrimination mechanisms such as educational institution prestige, geographic location, or cultural capital indicators that correlate with economic background and perpetuate class-based exclusion.
 
-Four gates ensure methodological rigor: **Gate 1** confirms critical historical patterns before proceeding, **Gate 2** validates fairness definition selection, **Gate 3** verifies bias source prioritization, and **Gate 4** confirms statistical significance before documentation.
+Each historical pattern receives quantitative risk scoring across severity (1-5), likelihood of AI manifestation (1-5), and relevance to the specific application domain (1-5). This produces priority classifications of Critical (7-9), High (5-6), Medium (3-4), or Low (1-2) that guide subsequent analysis focus. Teams must document specific evidence sources, legal cases, or academic literature supporting each pattern to ensure empirical grounding rather than theoretical speculation.
 
-The term **Gate** was chosen over **Checkpoint** because gate implies a more decisive, binary control mechanism that teams must actively pass through to proceed.
+## Component 2: Fairness Definition Selection Tool ##
 
-**Gate** suggests clear go/no go decisions with specific criteria that must be met before advancing, like quality gates in software development or stage gates in project management methodologies. This terminology emphasizes that teams cannot simply acknowledge a milestone and continue; they must demonstrate sufficient progress to warrant moving forward.
+The Fairness Definition Selection Tool transforms historical evidence into actionable fairness criteria, producing ***Definition Selection*** based on three integrated analyses. The primary outputs include:
 
-**Checkpoints,** by contrast, imply more passive review points where teams assess status but may proceed regardless of findings. Checkpoints often function as informational reviews rather than decision points that could halt progress.
-In the fairness audit context, using the term gates communicates that each phase has mandatory requirements.  The completion criteria per gates is listed below.
+- **Historical Context Assessment** results directly inform which fairness definitions address documented discrimination patterns - for example, historical exclusion patterns trigger demographic parity consideration while systematic evaluation bias supports equal opportunity selection. 
 
-**Gate 1: Historical Context Assessment Complete Required Criteria:**
+- **Error-Impact Analysis** determines relative harm of false positives versus false negatives in the specific application context, with hiring systems typically prioritizing equal opportunity to avoid missing qualified candidates while lending systems may emphasize predictive parity to ensure accurate risk assessment across groups. 
 
-•	At least 3 documented historical discrimination patterns identified with specific evidence sources
-•	Risk classification matrix completed with severity, likelihood, and relevance scores for each pattern
-•	Priority score calculation completed with at least one "Critical" (7-9) or "High" (5-6) priority pattern documented
-•	Domain-specific historical documentation referenced and cited
-•	Demographic groups at highest historical risk clearly identified
+- **Outcome Calibration Assessment** evaluates whether probabilistic scores will be exposed to users, determining if calibration metrics requiring equal prediction accuracy across groups are necessary.
+The tool produces primary fairness definitions with explicit mathematical formulations, secondary monitoring metrics for properties not satisfied by the primary choice, and documented trade-off acknowledgments explaining which competing fairness criteria cannot be simultaneously achieved.
 
-**Gate 2: Fairness Definition Selection Validated Required Criteria:**
+## Component 3: Bias Source Identification Tool ##
 
-•	Primary fairness definition selected with explicit mathematical formulation documented
-•	Selection rationale directly references historical patterns from Gate 1
-•	Trade-off analysis completed acknowledging competing fairness criteria that cannot be simultaneously satisfied
-•	Secondary monitoring metrics identified for properties not satisfied by primary definition
-•	Error-impact analysis completed determining relative harm of false positives vs false negatives
-•	Stakeholder alignment documented for selected definitions
+The Bias Source Identification Tool maps potential bias entry points throughout the ML pipeline, producing ***Bias Source Prioritization*** that focuses limited assessment resources on highest-impact areas. The primary outputs include:
 
-**Gate 3: Bias Source Prioritization Verified Required Criteria:**
+- **Historical Bias in Performance Ratings** represents systematic discrimination embedded in training data labels, such as performance evaluation systems that historically rated equivalent work by different demographic groups differently, creating biased ground truth for supervised learning. 
 
-•	At least 5 potential bias sources identified across the ML pipeline using taxonomic classification
-•	Priority scores calculated using the 5-dimension framework (Severity × 0.3 + Scope × 0.2 + Persistence × 0.2 + Historical Alignment × 0.2 + Intervention Feasibility × 0.1)
-•	At least 2 "High Priority" (≥4.0) bias sources documented with explicit connections to both historical patterns and selected fairness definitions
-•	Detection methodology applied with specific quantitative techniques identified for each priority bias source
-•	Documentation includes explicit references linking bias sources to historical context and fairness definition impacts
+- **Uniform Recommendation Threshold** identifies deployment bias where single decision cutoffs applied across all demographic groups create disparate impacts when groups have different score distributions, even with fair prediction models. 
 
-**Gate 4: Statistical Validation Achieved Required Criteria:**
+- **Precision-Focused Optimization** captures learning bias where model optimization emphasizes accuracy metrics that inadvertently create disparate error rates across groups, such as minimizing false positives while ignoring false negative disparities.
+Each bias source receives priority scoring using five dimensions: severity of potential harm, scope of affected decisions, persistence through feedback loops, historical alignment with documented patterns, and intervention feasibility. This produces actionable prioritization focusing teams on bias sources scoring 4.0 or higher that require immediate mitigation attention.
 
-•	Primary fairness metrics implemented based on selected definitions from Gate 2
-•	Statistical validation completed with 95% confidence intervals reported for all metrics
-•	Sample size adequacy confirmed (minimum 100 samples per protected group, or Bayesian approaches with documented priors for smaller samples)
-•	Statistical significance testing completed for identified disparities (p-values reported)
-•	Results interpreted in context of priority bias sources from Gate 3
-•	Actionable recommendations documented with specific intervention priorities based on quantitative findings
+## Component 4: Fairness Metrics Tool ##
 
-When Gate 4 metrics reveal unexpected disparities or validate suspected bias patterns, teams must implement iterative refinement, returning to previous phases to refine their analysis. For example, if statistical validation uncovers bias sources not initially prioritized, teams may update their historical context assessment or revise bias source rankings. This serves the critical purpose of transforming fairness assessment from a linear checklist into a learning process that adapts to actual system behavior. The iterative approach prevents teams from making decisions based on theoretical concerns that may not manifest in practice, while ensuring genuine fairness issues receive appropriate attention through evidence-based refinement of the entire assessment methodology.
+The Fairness Metrics Tool translates selected fairness definitions into quantitative measurements with statistical validation, ensuring assessment rigor through confidence intervals and significance testing rather than point estimates that may reflect random variation.
 
-## Business Impact of Component Integration ##
+**Integration Points:**
 
-The component integration scales across domains while ensuring consistent methodology, reducing both technical debt and regulatory risk.  This integration transforms fairness from reactive incident response to proactive risk management. Teams can implement standardized assessments without requiring specialized fairness expertise for routine cases, while maintaining scientific rigor and creating audit trails for compliance. 
+Three critical integration mechanisms ensure analytical coherence. Historical patterns from Component 1 directly inform fairness definition priorities in Component 2, preventing arbitrary selections disconnected from actual discrimination mechanisms documented in the domain. Selected definitions from Component 2 focus bias detection efforts in Component 3 on sources most likely to violate chosen fairness criteria, maximizing assessment efficiency by targeting relevant bias types rather than comprehensive but unfocused analysis. Priority bias sources from Component 3 determine targeted metric implementation in Component 4, ensuring measurement addresses highest-impact areas identified through systematic prioritization.
+
+**Iterative Refinement:**
+
+Quantitative results from Component 4 enable evidence-based refinement across all previous components, transforming fairness assessment from linear checklist into adaptive learning process. When metrics reveal unexpected disparities or validate suspected bias patterns, teams systematically revisit earlier phases to update historical risk assessments, revise fairness definition selections, or adjust bias source prioritization based on empirical findings rather than initial assumptions.
+
