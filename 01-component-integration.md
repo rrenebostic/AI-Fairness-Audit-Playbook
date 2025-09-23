@@ -9,7 +9,7 @@ Our proposed Fairness Audit Playbook provides a systematic four-component framew
 
 •	**Bias Source Identification** maps potential bias entry points throughout the ML pipeline using taxonomic classification and detection methodologies. 
 
-•	**Fairness Metrics** translates selected definitions into quantitative measurements with statistical validation and confidence intervals.
+•	**Comprehensive Metrics** translates selected definitions into quantitative measurements with statistical validation and confidence intervals.
 <br/>
 <br/>
 
@@ -54,7 +54,7 @@ The Bias Source Identification Tool maps potential bias entry points throughout 
 - **Precision-Focused Optimization** captures learning bias where model optimization emphasizes accuracy metrics that inadvertently create disparate error rates across groups, such as minimizing false positives while ignoring false negative disparities.
 Each bias source receives priority scoring using five dimensions: severity of potential harm, scope of affected decisions, persistence through feedback loops, historical alignment with documented patterns, and intervention feasibility. This produces actionable prioritization focusing teams on bias sources scoring 4.0 or higher that require immediate mitigation attention.
 
-## Component 4: Fairness Metrics Tool ##
+## Component 4: Comprehensive Metrics Tool ##
 
 The Fairness Metrics Tool translates selected fairness definitions into quantitative measurements with statistical validation, ensuring assessment rigor through confidence intervals and significance testing rather than point estimates that may reflect random variation.
 
