@@ -3,13 +3,13 @@
 Our proposed Fairness Audit Playbook provides a systematic four-component framework to address AI fairness concerns across our products. This standardized approach replaces ad-hoc fairness assessments with rigorous, repeatable methodology.
 
 ## Component Overview ##
-•	**Historical Context Assessment** identifies documented discrimination patterns specific to each AI application domain and creates a risk-prioritized matrix of relevant biases. 
+- **Historical Context Assessment** identifies documented discrimination patterns specific to each AI application domain and creates a risk-prioritized matrix of relevant biases. 
 
-•	**Fairness Definition Selection** uses decision trees to systematically choose appropriate fairness criteria based on historical context and error-impact analysis rather than arbitrary selection. 
+- **Fairness Definition Selection** uses decision trees to systematically choose appropriate fairness criteria based on historical context and error-impact analysis rather than arbitrary selection. 
 
-•	**Bias Source Identification** maps potential bias entry points throughout the ML pipeline using taxonomic classification and detection methodologies. 
+- **Bias Source Identification** maps potential bias entry points throughout the ML pipeline using taxonomic classification and detection methodologies. 
 
-•	**Comprehensive Metrics** translates selected definitions into quantitative measurements with statistical validation and confidence intervals.
+- **Comprehensive Metrics** translates selected definitions into quantitative measurements with statistical validation and confidence intervals.
 <br/>
 <br/>
 
