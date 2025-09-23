@@ -1,4 +1,4 @@
-# AI Fairness Audit: Employment Screening Algorithm Case Study #
+# AI Fairness Audit: Employment Screening Case Study #
 
 ## Scenario Context ##
 
