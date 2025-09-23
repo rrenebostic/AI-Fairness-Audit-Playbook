@@ -1,4 +1,4 @@
-## AI Fairness Audit: Intersectional Fairness
+# AI Fairness Audit: Intersectional Fairness #
 
 ## Introduction ##
 
