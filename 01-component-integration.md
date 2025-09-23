@@ -1,6 +1,7 @@
 # AI Fairness Audit: Component Integration Workflow
 
 Our proposed Fairness Audit Playbook provides a systematic four-component framework to address AI fairness concerns across our products. This standardized approach replaces ad-hoc fairness assessments with rigorous, repeatable methodology.
+
 ## Component Overview ##
 •	**Historical Context Assessment** identifies documented discrimination patterns specific to each AI application domain and creates a risk-prioritized matrix of relevant biases. 
 
@@ -10,6 +11,9 @@ Our proposed Fairness Audit Playbook provides a systematic four-component framew
 
 •	**Fairness Metrics** translates selected definitions into quantitative measurements with statistical validation and confidence intervals.
 <br/>
+
+<img width="1911" height="756" alt="image" src="https://github.com/user-attachments/assets/5ae5c6f2-06cd-49e3-8b62-53f848e66fb5" />
+
 ## Integration Points ##
 
 The workflow ensures each component builds systematically on previous outputs. Historical patterns directly inform fairness definition priorities, selected definitions focus bias detection efforts, and priority bias sources determine targeted metric implementation. This ensures teams address underlying discrimination patterns rather than only fixing surface-level disparities.
