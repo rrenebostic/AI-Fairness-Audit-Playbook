@@ -1,4 +1,4 @@
-## AI Fairness Audit: Insights for Improvement
+# AI Fairness Audit: Insights for Improvement #
 
 ## Improving the Playbook with a Maniacal Focus on Intersectional Analysis ##
 
