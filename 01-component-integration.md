@@ -66,15 +66,12 @@ Each historical pattern receives quantitative risk scoring as noted in the image
 - **Medium (6-9):** Requires monitoring after launch
 - **Low (1-5):** No immediate action needed
 
-<br/>
-
 ### Historical Pattern Risk Classification Matrix ###
 
-<br/>
+
 
 <img width="620" height="324" alt="image" src="https://github.com/user-attachments/assets/d6832203-617e-4a4f-8c5f-40d825b6552a" />
 
-<br/>
 <br/>
 
 ### Component 2: Fairness Definition Selection Tool ###
