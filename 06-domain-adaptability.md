@@ -1,6 +1,6 @@
 # AI Fairness Audit: Domain Adaptability #
 
-<img width="403" height="260" alt="image" src="https://github.com/user-attachments/assets/bd7d2118-e67c-4b61-93d9-f6ffeb54cd40" />
+<img width="589" height="374" alt="image" src="https://github.com/user-attachments/assets/bd7d2118-e67c-4b61-93d9-f6ffeb54cd40" />
 
 
 ## Introduction ##
