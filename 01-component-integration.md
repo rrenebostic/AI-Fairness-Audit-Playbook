@@ -15,7 +15,7 @@ Our proposed Fairness Audit Playbook provides a systematic four-component framew
 
 **Integration Points:**
 
-Three critical integration mechanisms ensure analytical coherence. Historical patterns from Component 1 directly inform fairness definition priorities in Component 2, preventing arbitrary selections disconnected from actual discrimination mechanisms documented in the domain. Selected definitions from Component 2 focus bias detection efforts in Component 3 on sources most likely to violate chosen fairness criteria, maximizing assessment efficiency by targeting relevant bias types rather than comprehensive but unfocused analysis. Priority bias sources from Component 3 determine targeted metric implementation in Component 4, ensuring measurement addresses highest-impact areas identified through systematic prioritization.
+Three critical integration mechanisms ensure analytical coherence. Historical patterns from **Component 1** directly inform fairness definition priorities in Component 2, preventing arbitrary selections disconnected from actual discrimination mechanisms documented in the domain. Selected definitions from **Component 2** focus bias detection efforts in Component 3 on sources most likely to violate chosen fairness criteria, maximizing assessment efficiency by targeting relevant bias types rather than comprehensive but unfocused analysis. Priority bias sources from **Component 3** determine targeted metric implementation in **Component 4**, ensuring measurement addresses highest-impact areas identified through systematic prioritization.
 
 <br/>
 <br/>
@@ -66,9 +66,10 @@ Each historical pattern receives quantitative risk scoring as noted in the image
 - **Medium (6-9):** Requires monitoring after launch
 - **Low (1-5):** No immediate action needed
 
-
-
 <br/>
+
+### Historical Pattern Risk Classification Matrix ###
+
 <br/>
 
 <img width="620" height="324" alt="image" src="https://github.com/user-attachments/assets/d6832203-617e-4a4f-8c5f-40d825b6552a" />
@@ -97,7 +98,7 @@ In the image below, the decision tree systematically guides fairness definition 
 
 **Node 1: Historical Context Assessment:** The tree begins by evaluating documented discrimination patterns in our hiring domain. Our analysis revealed Critical-priority historical biases: gender bias in tech hiring (priority score: 27) and age discrimination against workers over 40 (priority score: 18). These findings trigger the mandatory addition of Demographic Parity as a fairness requirement, ensuring equal selection rates across protected groups to directly counter documented exclusion patterns.
 
-**Node 2: Error-Impact Analysis:*** The second decision evaluates which prediction errors cause greater harm in our hiring context. The tree shows that False Negatives (missing qualified candidates) create more business damage than False Positives (interviewing additional candidates). Missing qualified talent perpetuates historical exclusion, reduces our competitive advantage, and contradicts our diversity goals. Since our interview capacity can expand by 12% without significant cost impact, the tree selects Equal Opportunity as the primary fairness definition, ensuring qualified candidates receive equal consideration regardless of demographics.
+**Node 2: Error-Impact Analysis:** The second decision evaluates which prediction errors cause greater harm in our hiring context. The tree shows that False Negatives (missing qualified candidates) create more business damage than False Positives (interviewing additional candidates). Missing qualified talent perpetuates historical exclusion, reduces our competitive advantage, and contradicts our diversity goals. Since our interview capacity can expand by 12% without significant cost impact, the tree selects Equal Opportunity as the primary fairness definition, ensuring qualified candidates receive equal consideration regardless of demographics.
 
 **Node 3: Calibration Assessment:** The final decision determines whether probabilistic score exposure requires calibration. Since our system produces binary recommendations (hire/don't hire) without exposing risk scores to hiring managers, no calibration requirements are added to the fairness criteria set.
 
@@ -126,6 +127,19 @@ The Bias Source Identification Tool maps potential bias entry points throughout 
 
 - **Precision-Focused Optimization** captures learning bias where model optimization emphasizes accuracy metrics that inadvertently create disparate error rates across groups, such as minimizing false positives while ignoring false negative disparities.
 Each bias source receives priority scoring using five dimensions: severity of potential harm, scope of affected decisions, persistence through feedback loops, historical alignment with documented patterns, and intervention feasibility. This produces actionable prioritization focusing teams on bias sources scoring 4.0 or higher that require immediate mitigation attention.
+
+### Bias Source Prioritization Table Overview ###
+
+The Bias Source Prioritization table below presents the systematic assessment of three critical bias sources identified in the Employment Screening Algorithm case study for an AI-powered resume screening system used in software engineering hiring. Each bias source has been evaluated across four key dimensions: **Severity** (potential harm if unaddressed), **Persistence** (whether effects compound over time through feedback loops), **Historical Alignment** (connection to documented discrimination patterns), and **Intervention Feasibility** (relative ease of implementation). 
+
+The **priority scores** guide resource allocation and intervention sequencing ensure that the most critical fairness risks receive immediate attention while maintaining practical implementation considerations. This assessment directly builds upon the Historical Context Assessment findings that revealed gender and age discrimination patterns in tech hiring, and supports the team's commitment to equal opportunity as their primary fairness definition.
+
+<br/>
+
+<img width="621" height="348" alt="image" src="https://github.com/user-attachments/assets/a795710b-559c-4a90-bb5c-0f9c77a78a5e" />
+
+<br/>
+<br/>
 
 ### Component 4: Comprehensive Metrics Tool ###
 
