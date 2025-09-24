@@ -1,5 +1,8 @@
 # AI Fairness Audit: Intersectional Fairness #
 
+<img width="594" height="399" alt="image" src="https://github.com/user-attachments/assets/e1fe67ed-a530-4f02-9802-605320fd209c" />
+
+
 ## Introduction ##
 
 Intersectional fairness represents a critical gap in traditional AI fairness assessments. Most fairness evaluations examine protected attributes independently, analyzing outcomes for gender or race or age separately. However, real-world discrimination frequently occurs at the intersection of multiple identities, creating unique disadvantages that single-attribute analysis cannot detect.
