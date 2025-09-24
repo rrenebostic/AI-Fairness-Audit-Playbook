@@ -1,5 +1,8 @@
 # AI Fairness Audit: Organizational Implementation
 
+<img width="571" height="429" alt="image" src="https://github.com/user-attachments/assets/5aece94f-39dd-4435-978a-edf8fca02112" />
+
+
 ## Introduction ##
 
 The Fairness Audit Playbook represents a comprehensive framework integrating Historical Context Assessment, Fairness Definition Selection, Bias Source Identification, and Comprehensive Metrics components. Successful organizational implementation requires systematic coordination across engineering teams, clear role definition, and strategic integration with existing development workflows. This chapter provides practical guidance for deploying the playbook within technology organizations to standardize fairness evaluations across AI systems.
