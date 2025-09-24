@@ -89,9 +89,34 @@ The Fairness Definition Selection Tool transforms historical evidence into actio
 - **Outcome Calibration Assessment** evaluates whether probabilistic scores will be exposed to users, determining if calibration metrics requiring equal prediction accuracy across groups are necessary.
 The tool produces primary fairness definitions with explicit mathematical formulations, secondary monitoring metrics for properties not satisfied by the primary choice, and documented trade-off acknowledgments explaining which competing fairness criteria cannot be simultaneously achieved.
 
+### Employment Screening Algorithm Decision Tree Overview ###
+
+In the image below, the decision tree systematically guides fairness definition selection for our AI-powered employment screening system, ensuring principled choices based on evidence rather than arbitrary decisions. The tree addresses three sequential assessments that determine which fairness criteria our hiring algorithm must satisfy.
+
+***Decision Flow Analysis***
+
+**Node 1: Historical Context Assessment:** The tree begins by evaluating documented discrimination patterns in our hiring domain. Our analysis revealed Critical-priority historical biases: gender bias in tech hiring (priority score: 27) and age discrimination against workers over 40 (priority score: 18). These findings trigger the mandatory addition of Demographic Parity as a fairness requirement, ensuring equal selection rates across protected groups to directly counter documented exclusion patterns.
+
+**Node 2: Error-Impact Analysis:*** The second decision evaluates which prediction errors cause greater harm in our hiring context. The tree shows that False Negatives (missing qualified candidates) create more business damage than False Positives (interviewing additional candidates). Missing qualified talent perpetuates historical exclusion, reduces our competitive advantage, and contradicts our diversity goals. Since our interview capacity can expand by 12% without significant cost impact, the tree selects Equal Opportunity as the primary fairness definition, ensuring qualified candidates receive equal consideration regardless of demographics.
+
+**Node 3: Calibration Assessment:** The final decision determines whether probabilistic score exposure requires calibration. Since our system produces binary recommendations (hire/don't hire) without exposing risk scores to hiring managers, no calibration requirements are added to the fairness criteria set.
+
+<br/>
+<br/>
+
+<img width="1133" height="1009" alt="image" src="https://github.com/user-attachments/assets/d8b267c2-5631-4fa8-bc1c-1b3ca7485f70" />
+
+<br/>
+<br/>
+
+
+**Business Implications:** The decision tree produces a two-part fairness framework: Equal Opportunity as the primary definition (ensuring qualified candidates get equal chances) and Demographic Parity as secondary monitoring (tracking overall representation). This combination addresses both systematic exclusion and talent identification objectives while maintaining legal compliance.
+
+**Implementation Impact:** This systematic approach replaces subjective fairness choices with evidence-based selection, creating audit trails for regulatory compliance and ensuring consistent methodology across all AI hiring systems. The tree's logic directly connects historical evidence to technical requirements, providing clear rationale for any fairness interventions and their associated costs.
+
 ### Component 3: Bias Source Identification Tool ###
 
-***Bias Source Prioritization Integration Point**
+***Bias Source Prioritization Integration Point***
 
 The Bias Source Identification Tool maps potential bias entry points throughout the ML pipeline, producing ***Bias Source Prioritization*** that focuses limited assessment resources on highest-impact areas. The primary outputs include:
 
