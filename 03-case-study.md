@@ -1,5 +1,9 @@
 # AI Fairness Audit: Employment Screening Case Study #
 
+
+<img width="509" height="246" alt="image" src="https://github.com/user-attachments/assets/74e6d6cd-496b-407c-a599-787cbe77066f" />
+
+
 ## Scenario Context ##
 
 A large retail company implemented an AI-powered algorithm to screen job applicants for customer service positions across multiple states. The system analyzes application materials and predicts candidate success based on historical performance data from current employees, significantly influencing who receives interview opportunities before human review.
