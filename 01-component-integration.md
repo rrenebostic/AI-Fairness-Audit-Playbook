@@ -20,7 +20,7 @@ Three critical integration mechanisms ensure analytical coherence. Historical pa
 <br/>
 <br/>
 
-<img width="1715" height="354" alt="image" src="https://github.com/user-attachments/assets/dc02680f-7b8a-4561-b585-1894f0c1ccca" />
+<img width="1722" height="367" alt="image" src="https://github.com/user-attachments/assets/75352f11-6ab2-4b42-8370-1e96cca01cb8" />
 
 <br/>
 <br/>
