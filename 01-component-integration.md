@@ -10,6 +10,13 @@ Our proposed Fairness Audit Playbook provides a systematic four-component framew
 - **Bias Source Identification** maps potential bias entry points throughout the ML pipeline using taxonomic classification and detection methodologies. 
 
 - **Comprehensive Metrics** translates selected definitions into quantitative measurements with statistical validation and confidence intervals.
+
+## Overview of the Component Integration Workflow ##
+
+**Integration Points:**
+
+Three critical integration mechanisms ensure analytical coherence. Historical patterns from Component 1 directly inform fairness definition priorities in Component 2, preventing arbitrary selections disconnected from actual discrimination mechanisms documented in the domain. Selected definitions from Component 2 focus bias detection efforts in Component 3 on sources most likely to violate chosen fairness criteria, maximizing assessment efficiency by targeting relevant bias types rather than comprehensive but unfocused analysis. Priority bias sources from Component 3 determine targeted metric implementation in Component 4, ensuring measurement addresses highest-impact areas identified through systematic prioritization.
+
 <br/>
 <br/>
 
@@ -18,9 +25,13 @@ Our proposed Fairness Audit Playbook provides a systematic four-component framew
 <br/>
 <br/>
 
-The image above depicts the Component Integration Workflow with three integration points and respective outputs: (1) Historical Patterns, (2) Definition Selection, and (3) Bias Source Prioritization.
+This workflow is focused on an [**Employment Screening Case Study**](https://github.com/rrenebostic/AI-Fairness-Audit-Playbook/blob/main/03-case-study.md) involving a large retail company that has adopted an AI-powered algorithm to screen job applicants for customer service positions across multiple states. The system evaluates application materials and predicts candidate success based on historical performance data from current employees. This process significantly impacts which candidates are selected for interviews prior to Human Resources review.
 
-## Component 1: Historical Context Assessment Tool ##
+The accompanying image illustrates the Component Integration Workflow, which includes three integration points and their respective outputs: **(1) Historical Patterns, (2) Definition Selection, and (3) Bias Source Prioritization.** The outputs for each component are tailored to the employment screening use case.
+
+### Component 1: Historical Context Assessment Tool ###
+
+***Historical Pattern Integration Point***
 
 The Historical Context Assessment Tool serves as the foundational anchor, producing ***Historical Patterns*** that document domain-specific discrimination mechanisms with empirical evidence. The primary outputs include: 
 
@@ -30,9 +41,44 @@ The Historical Context Assessment Tool serves as the foundational anchor, produc
 
 - **Proxies for Socioeconomic Status** identify indirect discrimination mechanisms such as educational institution prestige, geographic location, or cultural capital indicators that correlate with economic background and perpetuate class-based exclusion.
 
-Each historical pattern receives quantitative risk scoring across severity (1-5), likelihood of AI manifestation (1-5), and relevance to the specific application domain (1-5). This produces priority classifications of Critical (7-9), High (5-6), Medium (3-4), or Low (1-2) that guide subsequent analysis focus. Teams must document specific evidence sources, legal cases, or academic literature supporting each pattern to ensure empirical grounding rather than theoretical speculation.
+***Classification Criteria & Priority Guidelines***
 
-## Component 2: Fairness Definition Selection Tool ##
+Each historical pattern receives quantitative risk scoring as noted in the image below. Teams must document specific evidence sources, legal cases, or academic literature supporting each pattern to ensure empirical grounding rather than theoretical speculation.
+
+***Severity Scale***
+- **High (3):** Directly impacts fundamental rights or life outcomes
+- **Medium (2):** Creates significant disparities in opportunities
+- **Low (1):** Limited material impact on individuals
+
+***Likelihood Scale***
+- **High (3):** Pattern frequently appears in similar systems
+- **Medium (2):** Pattern occasionally appears in similar systems
+- **Low (1):** Pattern rarely appears in similar systems
+
+***Relevance Scale***
+- **High (3):** Direct applicability to system's domain/purpose
+- **Medium (2):** Partial applicability to certain components
+- **Low (1):** Limited applicability but potential manifestation
+
+***Priority Categories***
+- **Critical (19-27):** Requires immediate mitigation
+- **High (10-18):** Requires mitigation for successful launch
+- **Medium (6-9):** Requires monitoring after launch
+- **Low (1-5):** No immediate action needed
+
+
+
+<br/>
+<br/>
+
+<img width="620" height="324" alt="image" src="https://github.com/user-attachments/assets/d6832203-617e-4a4f-8c5f-40d825b6552a" />
+
+<br/>
+<br/>
+
+### Component 2: Fairness Definition Selection Tool ###
+
+***Definition Selection Integration Point***
 
 The Fairness Definition Selection Tool transforms historical evidence into actionable fairness criteria, producing ***Definition Selection*** based on three integrated analyses. The primary outputs include:
 
@@ -43,7 +89,9 @@ The Fairness Definition Selection Tool transforms historical evidence into actio
 - **Outcome Calibration Assessment** evaluates whether probabilistic scores will be exposed to users, determining if calibration metrics requiring equal prediction accuracy across groups are necessary.
 The tool produces primary fairness definitions with explicit mathematical formulations, secondary monitoring metrics for properties not satisfied by the primary choice, and documented trade-off acknowledgments explaining which competing fairness criteria cannot be simultaneously achieved.
 
-## Component 3: Bias Source Identification Tool ##
+### Component 3: Bias Source Identification Tool ###
+
+***Bias Source Prioritization Integration Point**
 
 The Bias Source Identification Tool maps potential bias entry points throughout the ML pipeline, producing ***Bias Source Prioritization*** that focuses limited assessment resources on highest-impact areas. The primary outputs include:
 
@@ -54,13 +102,9 @@ The Bias Source Identification Tool maps potential bias entry points throughout 
 - **Precision-Focused Optimization** captures learning bias where model optimization emphasizes accuracy metrics that inadvertently create disparate error rates across groups, such as minimizing false positives while ignoring false negative disparities.
 Each bias source receives priority scoring using five dimensions: severity of potential harm, scope of affected decisions, persistence through feedback loops, historical alignment with documented patterns, and intervention feasibility. This produces actionable prioritization focusing teams on bias sources scoring 4.0 or higher that require immediate mitigation attention.
 
-## Component 4: Comprehensive Metrics Tool ##
+### Component 4: Comprehensive Metrics Tool ###
 
 The Fairness Metrics Tool translates selected fairness definitions into quantitative measurements with statistical validation, ensuring assessment rigor through confidence intervals and significance testing rather than point estimates that may reflect random variation.
-
-**Integration Points:**
-
-Three critical integration mechanisms ensure analytical coherence. Historical patterns from Component 1 directly inform fairness definition priorities in Component 2, preventing arbitrary selections disconnected from actual discrimination mechanisms documented in the domain. Selected definitions from Component 2 focus bias detection efforts in Component 3 on sources most likely to violate chosen fairness criteria, maximizing assessment efficiency by targeting relevant bias types rather than comprehensive but unfocused analysis. Priority bias sources from Component 3 determine targeted metric implementation in Component 4, ensuring measurement addresses highest-impact areas identified through systematic prioritization.
 
 **Iterative Refinement:**
 
