@@ -1,5 +1,8 @@
 # AI Fairness Audit: Domain Adaptability #
 
+<img width="367" height="237" alt="image" src="https://github.com/user-attachments/assets/bd7d2118-e67c-4b61-93d9-f6ffeb54cd40" />
+
+
 ## Introduction ##
 
 Domain adaptability represents a critical success factor for our fairness audit framework across the organization's diverse AI applications. The Air Fairness Audit Playbook components—Historical Context Assessment, Fairness Definition Selection, Bias Source Identification, and Comprehensive Metrics—require systematic adaptation to maintain methodological rigor while accommodating domain-specific requirements, legal frameworks, and technical constraints.
