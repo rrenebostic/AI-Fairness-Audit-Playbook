@@ -2,61 +2,64 @@
 
 ## Works Cited ##
 
-Agarwal, N., Gupta, H., Sharma, S., Saxena, V., Srinivasan, A., & Vardhan, M. (2021). Mitigating bias in machine learning using confidence intervals for fairness metrics. In Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society (pp. 23-34). https://dl.acm.org/doi/10.1145/3461702.3462533
+Agarwal, Neha, et al. "Mitigating Bias in Machine Learning Using Confidence Intervals for Fairness Metrics." Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society, 2021, pp. 23-34, https://dl.acm.org/doi/10.1145/3461702.3462533.
 
-Barocas, S., Hardt, M., & Narayanan, A. (2019). Fairness and machine learning: Limitations and opportunities. https://fairmlbook.org/
+Anthropic. Claude 4 Sonnet, 2025, https://claude.ai. Large language model.
 
-Buolamwini, J., & Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Proceedings of the 1st Conference on Fairness, Accountability, and Transparency (pp. 77-91). https://proceedings.mlr.press/v81/buolamwini18a.html
+Barocas, Solon, et al. Fairness and Machine Learning: Limitations and Opportunities, 2019, https://fairmlbook.org/.
 
-Chouldechova, A. (2017). Fair prediction with disparate impact: A study of bias in recidivism prediction instruments. Big Data, 5(2), 153-163. https://doi.org/10.1089/big.2016.0047
+Buolamwini, Joy, and Timnit Gebru. "Gender Shades: Intersectional Accuracy Disparities in Commercial Gender Classification." Proceedings of the 1st Conference on Fairness, Accountability, and Transparency, 2018, pp. 77-91, https://proceedings.mlr.press/v81/buolamwini18a.html.
 
-D'Amour, A., Srinivasan, H., Atwood, J., Baljekar, P., Sculley, D., & Halpern, Y. (2020). Fairness is not static: Deeper understanding of long term fairness via simulation studies. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 525-534). https://dl.acm.org/doi/10.1145/3351095.3372878
+Chouldechova, Alexandra. "Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments." Big Data, vol. 5, no. 2, 2017, pp. 153-163, https://doi.org/10.1089/big.2016.0047.
 
-Dwork, C., Hardt, M., Pitassi, T., Reingold, O., & Zemel, R. (2012). Fairness through awareness. In Proceedings of the 3rd Innovations in Theoretical Computer Science Conference (pp. 214-226). https://doi.org/10.1145/2090236.2090255
+D'Amour, Alexander, et al. "Fairness Is Not Static: Deeper Understanding of Long Term Fairness via Simulation Studies." Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, 2020, pp. 525-534, https://dl.acm.org/doi/10.1145/3351095.3372878.
 
-Ekstrand, M. D., Tian, M., Azpiazu, I. M., Ekstrand, J. D., Anuyah, O., McNeill, D., & Pera, M. S. (2018). All the cool kids, how do they fit in?: Popularity and demographic biases in recommender evaluation and effectiveness. In Proceedings of the 1st Conference on Fairness, Accountability and Transparency (pp. 172-186). https://proceedings.mlr.press/v81/ekstrand18b.html
+Dwork, Cynthia, et al. "Fairness Through Awareness." Proceedings of the 3rd Innovations in Theoretical Computer Science Conference, 2012, pp. 214-226, https://doi.org/10.1145/2090236.2090255.
 
-Ensign, D., Friedler, S. A., Neville, S., Scheidegger, C., & Venkatasubramanian, S. (2018). Runaway feedback loops in predictive policing. In Proceedings of the 1st Conference on Fairness, Accountability and Transparency (pp. 160-171). https://proceedings.mlr.press/v81/ensign18a.html
+Ekstrand, Michael D., et al. "All the Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness." Proceedings of the 1st Conference on Fairness, Accountability and Transparency, 2018, pp. 172-186, https://proceedings.mlr.press/v81/ekstrand18b.html.
 
-Friedler, S. A., Scheidegger, C., Venkatasubramanian, S., Choudhary, S., Hamilton, E. P., & Roth, D. (2019). A comparative study of fairness-enhancing interventions in machine learning. In Proceedings of the Conference on Fairness, Accountability, and Transparency (pp. 329-338). https://dl.acm.org/doi/10.1145/3287560.3287589
+Ensign, Danielle, et al. "Runaway Feedback Loops in Predictive Policing." Proceedings of the 1st Conference on Fairness, Accountability and Transparency, 2018, pp. 160-171, https://proceedings.mlr.press/v81/ensign18a.html.
 
-Hardt, M., Price, E., & Srebro, N. (2016). Equality of opportunity in supervised learning. In Advances in Neural Information Processing Systems (pp. 3315-3323). https://proceedings.neurips.cc/paper/2016/file/9d2682367c3935defcb1f9e247a97c0d-Paper.pdf
+Friedler, Sorelle A., et al. "A Comparative Study of Fairness-Enhancing Interventions in Machine Learning." Proceedings of the Conference on Fairness, Accountability, and Transparency, 2019, pp. 329-338, https://dl.acm.org/doi/10.1145/3287560.3287589.
 
-Hashimoto, T. B., Srivastava, M., Namkoong, H., & Liang, P. (2018). Fairness without demographics in repeated loss minimization. In Proceedings of the 35th International Conference on Machine Learning (pp. 1929-1938). https://proceedings.mlr.press/v80/hashimoto18a.html
+Hardt, Moritz, et al. "Equality of Opportunity in Supervised Learning." Advances in Neural Information Processing Systems, 2016, pp. 3315-3323, https://proceedings.neurips.cc/paper/2016/file/9d2682367c3935defcb1f9e247a97c0d-Paper.pdf.
 
-Holstein, K., Wortman Vaughan, J., Daumé III, H., Dudík, M., & Wallach, H. (2019). Improving fairness in machine learning systems: What do industry practitioners need? In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (pp. 1-16). https://doi.org/10.1145/3290605.3300830
+Hashimoto, Tatsunori B., et al. "Fairness Without Demographics in Repeated Loss Minimization." Proceedings of the 35th International Conference on Machine Learning, 2018, pp. 1929-1938, https://proceedings.mlr.press/v80/hashimoto18a.html.
 
-Ilvento, C. (2019). Metric learning for individual fairness. arXiv preprint arXiv:1906.00250. https://arxiv.org/abs/1906.00250
+Holstein, Kenneth, et al. "Improving Fairness in Machine Learning Systems: What Do Industry Practitioners Need?" Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems, 2019, pp. 1-16, https://doi.org/10.1145/3290605.3300830.
 
-Kearns, M., Neel, S., Roth, A., & Wu, Z. S. (2018). Preventing fairness gerrymandering: Auditing and learning for subgroup fairness. In International Conference on Machine Learning (pp. 2564-2572). https://proceedings.mlr.press/v80/kearns18a.html
+Ilvento, Christina. "Metric Learning for Individual Fairness." arXiv, 2019, https://arxiv.org/abs/1906.00250.
 
-Kleinberg, J., Mullainathan, S., & Raghavan, M. (2016). Inherent trade-offs in the fair determination of risk scores. arXiv preprint arXiv:1609.05807. https://arxiv.org/abs/1609.05807
+Kearns, Michael, et al. "Preventing Fairness Gerrymandering: Auditing and Learning for Subgroup Fairness." International Conference on Machine Learning, 2018, pp. 2564-2572, https://proceedings.mlr.press/v80/kearns18a.html.
 
-Kusner, M. J., Loftus, J., Russell, C., & Silva, R. (2017). Counterfactual fairness. In Advances in Neural Information Processing Systems (pp. 4066-4076).
+Kleinberg, Jon, et al. "Inherent Trade-Offs in the Fair Determination of Risk Scores." arXiv, 2016, https://arxiv.org/abs/1609.05807.
 
-Madaio, M. A., Stark, L., Wortman Vaughan, J., & Wallach, H. (2020). Co-designing checklists to understand organizational challenges and opportunities around fairness in AI. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-14). https://doi.org/10.1145/3313831.3376445
+Kusner, Matt J., et al. "Counterfactual Fairness." Advances in Neural Information Processing Systems, 2017, pp. 4066-4076.
 
-Mansoury, M., Abdollahpouri, H., Pechenizkiy, M., Mobasher, B., & Burke, R. (2020). Feedback loop and bias amplification in recommender systems. In Proceedings of the 29th ACM International Conference on Information & Knowledge Management (pp. 2145-2148). https://dl.acm.org/doi/10.1145/3340531.3412152
+Madaio, Michael A., et al. "Co-Designing Checklists to Understand Organizational Challenges and Opportunities Around Fairness in AI." Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 2020, pp. 1-14, https://doi.org/10.1145/3313831.3376445.
 
-Ogbonnaya-Ogburu, I. F., Smith, A. D., To, A., & Toyama, K. (2020). Critical race theory for HCI. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-16). https://doi.org/10.1145/3313831.3376392
+Mansoury, Masoud, et al. "Feedback Loop and Bias Amplification in Recommender Systems." Proceedings of the 29th ACM International Conference on Information & Knowledge Management, 2020, pp. 2145-2148, https://dl.acm.org/doi/10.1145/3340531.3412152.
 
-O'Neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Crown Publishing Group.
+Napkin AI. Napkin AI, 2025, https://napkin.ai. AI-powered visual communication platform.
 
-Sambasivan, N., Kapania, S., Highfill, H., Akrong, D., Paritosh, P., & Aroyo, L. M. (2021). "Everyone wants to do the model work, not the data work": Data cascades in high-stakes AI. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (pp. 1-15). https://doi.org/10.1145/3411764.3445518
+Ogbonnaya-Ogburu, Ihudiya Finda, et al. "Critical Race Theory for HCI." Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 2020, pp. 1-16, https://doi.org/10.1145/3313831.3376392.
 
-Selbst, A. D., Boyd, D., Friedler, S. A., Venkatasubramanian, S., & Vertesi, J. (2019). Fairness and abstraction in sociotechnical systems. In Proceedings of the Conference on Fairness, Accountability, and Transparency (pp. 59-68). https://doi.org/10.1145/3287560.3287598
+O'Neil, Cathy. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Crown Publishing Group, 2016.
 
-Suresh, H., & Guttag, J. V. (2021). A framework for understanding sources of harm throughout the machine learning life cycle. In Equity and Access in Algorithms, Mechanisms, and Optimization (pp. 1-9). https://dl.acm.org/doi/10.1145/3465416.3483305
+Sambasivan, Nithya, et al. "'Everyone Wants to Do the Model Work, Not the Data Work': Data Cascades in High-Stakes AI." Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, 2021, pp. 1-15, https://doi.org/10.1145/3411764.3445518.
 
-Veale, M., & Binns, R. (2017). Fairer machine learning in the real world: Mitigating discrimination without collecting sensitive data. Big Data & Society, 4(2), 2053951717743530. https://doi.org/10.1177/2053951717743530
+Selbst, Andrew D., et al. "Fairness and Abstraction in Sociotechnical Systems." Proceedings of the Conference on Fairness, Accountability, and Transparency, 2019, pp. 59-68, https://doi.org/10.1145/3287560.3287598.
 
-Veale, M., Van Kleek, M., & Binns, R. (2018). Fairness and accountability design needs for algorithmic support in high-stakes public sector decision-making. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (pp. 1-14). https://doi.org/10.1145/3173574.3174014
+Suresh, Harini, and John V. Guttag. "A Framework for Understanding Sources of Harm Throughout the Machine Learning Life Cycle." Equity and Access in Algorithms, Mechanisms, and Optimization, 2021, pp. 1-9, https://dl.acm.org/doi/10.1145/3465416.3483305.
 
-Wachter, S., Mittelstadt, B., & Russell, C. (2021). Why fairness cannot be automated: Bridging the gap between EU non-discrimination law and AI. Computer Law & Security Review, 41, 105567. https://doi.org/10.1016/j.clsr.2021.105567
+Veale, Michael, and Reuben Binns. "Fairer Machine Learning in the Real World: Mitigating Discrimination Without Collecting Sensitive Data." Big Data & Society, vol. 4, no. 2, 2017, pp. 2053951717743530, https://doi.org/10.1177/2053951717743530.
 
-Yang, K., Qinami, K., Fei-Fei, L., Deng, J., & Russakovsky, O. (2020). Towards fairer datasets: Filtering and balancing the distribution of the people subtree in the ImageNet hierarchy. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 547-558). https://dl.acm.org/doi/10.1145/3351095.3375709
+Veale, Michael, et al. "Fairness and Accountability Design Needs for Algorithmic Support in High-Stakes Public Sector Decision-Making." Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, 2018, pp. 1-14, https://doi.org/10.1145/3173574.3174014.
 
-Yang, Q., Steinfeld, A., Rosé, C., & Zimmerman, J. (2020). Re-examining whether, why, and how human-AI interaction is uniquely difficult to design. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-13). https://doi.org/10.1145/3313831.3376301
+Wachter, Sandra, et al. "Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI." Computer Law & Security Review, vol. 41, 2021, pp. 105567, https://doi.org/10.1016/j.clsr.2021.105567.
 
-Zhang, J., & Walsh, J. (2021). Bootstrap confidence intervals for fairness metrics. Journal of Statistical Computation and Simulation, 91(16), 3225-3244. https://doi.org/10.1080/00949655.2021.1913218
+Yang, Kai, et al. "Towards Fairer Datasets: Filtering and Balancing the Distribution of the People Subtree in the ImageNet Hierarchy." Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, 2020, pp. 547-558, https://dl.acm.org/doi/10.1145/3351095.3375709.
 
+Yang, Qian, et al. "Re-Examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design." Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 2020, pp. 1-13, https://doi.org/10.1145/3313831.3376301.
+
+Zhang, Jingchen, and Jessica Walsh. "Bootstrap Confidence Intervals for Fairness Metrics." Journal of Statistical Computation and Simulation, vol. 91, no. 16, 2021, pp. 3225-3244, https://doi.org/10.1080/00949655.2021.1913218.
