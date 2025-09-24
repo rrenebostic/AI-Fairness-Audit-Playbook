@@ -1,5 +1,8 @@
 # AI Fairness Audit: Insights for Improvement #
 
+<img width="503" height="4346" alt="image" src="https://github.com/user-attachments/assets/b5602c16-2666-4e89-9126-af1bc92e9318" />
+
+
 ## Improving the Playbook with a Maniacal Focus on Intersectional Analysis ##
 
 Intersectional analysis represents the most significant gap in current AI fairness frameworks. As demonstrated in the education platform case study, the most severe bias effects consistently occur at demographic intersections—female students from lower socioeconomic backgrounds experienced the steepest decline in advanced content recommendations, a pattern invisible when analyzing gender or socioeconomic status independently. This phenomenon extends across domains: facial recognition systems achieving 95% accuracy for light-skinned males but only 65.3% for dark-skinned females, and hiring algorithms appearing fair across racial and gender groups separately while discriminating against women of color.
