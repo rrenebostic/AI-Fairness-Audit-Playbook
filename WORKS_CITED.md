@@ -60,6 +60,8 @@ Veale, Michael, et al. "Fairness and Accountability Design Needs for Algorithmic
 
 Wachter, Sandra, et al. "Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI." Computer Law & Security Review, vol. 41, 2021, pp. 105567, https://doi.org/10.1016/j.clsr.2021.105567.
 
+"Why Intersectional Equity Matters." EDGE Certification, EDGE Certified Foundation, 23 Mar. 2023, www.edge-cert.org/article/what-is-meant-by-intersectional-equity-and-why-does-it-matter/. Accessed 25 Sept. 2025.
+
 Yang, Kai, et al. "Towards Fairer Datasets: Filtering and Balancing the Distribution of the People Subtree in the ImageNet Hierarchy." Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, 2020, pp. 547-558, https://dl.acm.org/doi/10.1145/3351095.3375709.
 
 Yang, Qian, et al. "Re-Examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design." Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 2020, pp. 1-13, https://doi.org/10.1145/3313831.3376301.
