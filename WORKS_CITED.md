@@ -54,6 +54,8 @@ Suresh, Harini, and John V. Guttag. "A Framework for Understanding Sources of Ha
 
 "The Power of Authenticity: Embracing True Self over Performative Acts." NBMBAA, National Black MBA Association, nbmbaa.org/the-power-of-authenticity-embracing-true-self-over-performative-acts/. Accessed 25 Sept. 2025.
 
+Turing College. "Sprint 1: Foundational Concepts of Fairness in AI." AI Ethics Course, 2025, https://www.turingcollege.com.
+
 Veale, Michael, and Reuben Binns. "Fairer Machine Learning in the Real World: Mitigating Discrimination Without Collecting Sensitive Data." Big Data & Society, vol. 4, no. 2, 2017, pp. 2053951717743530, https://doi.org/10.1177/2053951717743530.
 
 Veale, Michael, et al. "Fairness and Accountability Design Needs for Algorithmic Support in High-Stakes Public Sector Decision-Making." Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, 2018, pp. 1-14, https://doi.org/10.1145/3173574.3174014.
