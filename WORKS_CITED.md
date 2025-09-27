@@ -14,6 +14,8 @@ Chouldechova, Alexandra. "Fair Prediction with Disparate Impact: A Study of Bias
 
 D'Amour, Alexander, et al. "Fairness Is Not Static: Deeper Understanding of Long Term Fairness via Simulation Studies." Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, 2020, pp. 525-534, https://dl.acm.org/doi/10.1145/3351095.3372878.
 
+Department of Justice Civil Rights Division, et al. "Joint Statement on Enforcement Efforts Against Discrimination and Bias in Automated Systems." Federal Trade Commission, 25 Apr. 2023, www.ftc.gov/system/files/ftc_gov/pdf/EEOC-CRT-FTC-CFPB-AI-Joint-Statement(final).pdf.
+
 Dwork, Cynthia, et al. "Fairness Through Awareness." Proceedings of the 3rd Innovations in Theoretical Computer Science Conference, 2012, pp. 214-226, https://doi.org/10.1145/2090236.2090255.
 
 Ekstrand, Michael D., et al. "All the Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness." Proceedings of the 1st Conference on Fairness, Accountability and Transparency, 2018, pp. 172-186, https://proceedings.mlr.press/v81/ekstrand18b.html.
