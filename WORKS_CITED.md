@@ -34,6 +34,8 @@ Kearns, Michael, et al. "Preventing Fairness Gerrymandering: Auditing and Learni
 
 Kleinberg, Jon, et al. "Inherent Trade-Offs in the Fair Determination of Risk Scores." arXiv, 2016, https://arxiv.org/abs/1609.05807.
 
+KPMG. "2024 KPMG Generative AI Consumer Trust Survey." KPMG, 18 Jan. 2024, kpmg.com/us/en/media/news/generative-ai-consumer-trust-survey.html.
+
 Kusner, Matt J., et al. "Counterfactual Fairness." Advances in Neural Information Processing Systems, 2017, pp. 4066-4076.
 
 Madaio, Michael A., et al. "Co-Designing Checklists to Understand Organizational Challenges and Opportunities Around Fairness in AI." Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 2020, pp. 1-14, https://doi.org/10.1145/3313831.3376445.
