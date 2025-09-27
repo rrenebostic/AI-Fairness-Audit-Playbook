@@ -18,7 +18,7 @@ Every day, AI systems make thousands of high-stakes decisions that shape people'
 
 **Lost Innovation Potential:** Bias in AI systems doesn't just create legal risk—it represents missed market opportunities. When algorithms systematically underserve certain demographics, organizations leave revenue on the table and fail to serve their complete customer base effectively.
 
-## Introducing the Executive Screening Case Study ##
+## Introducing the Employment Screening Case Study ##
 
 To demonstrate how systematic fairness assessment works in practice, this playbook centers on a representative scenario: an AI-powered employment screening algorithm used by a large retail company to evaluate job applicants for customer service positions.
 
