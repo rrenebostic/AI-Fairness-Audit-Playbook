@@ -38,6 +38,8 @@ KPMG. "2024 KPMG Generative AI Consumer Trust Survey." KPMG, 18 Jan. 2024, kpmg.
 
 Kusner, Matt J., et al. "Counterfactual Fairness." Advances in Neural Information Processing Systems, 2017, pp. 4066-4076.
 
+Luget, Angela, et al. "Insights on Responsible AI from the Global AI Trust Maturity Survey." McKinsey & Company, 14 May 2025, www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/insights-on-responsible-ai-from-the-global-ai-trust-maturity-survey.
+
 Madaio, Michael A., et al. "Co-Designing Checklists to Understand Organizational Challenges and Opportunities Around Fairness in AI." Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 2020, pp. 1-14, https://doi.org/10.1145/3313831.3376445.
 
 Mansoury, Masoud, et al. "Feedback Loop and Bias Amplification in Recommender Systems." Proceedings of the 29th ACM International Conference on Information & Knowledge Management, 2020, pp. 2145-2148, https://dl.acm.org/doi/10.1145/3340531.3412152.
