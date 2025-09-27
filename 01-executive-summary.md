@@ -1,5 +1,9 @@
 # AI Fairness Audit: Executive Overview
 
+
+<img width="909" height="610" alt="image" src="https://github.com/user-attachments/assets/856967fc-f713-4114-8c2b-0a662c5f97da" />
+
+
 ## The Hidden Cost of Algorithmic Bias ##
 
 Every day, AI systems make thousands of high-stakes decisions that shape people's lives—determining who gets hired, who receives loans, who accesses healthcare services, and who sees what information. Yet most organizations deploying these systems lack a fundamental capability: the ability to systematically audit whether their algorithms treat people fairly. Without structured fairness assessment frameworks, companies operate blind, discovering bias issues only after they've caused harm—whether through legal challenges, regulatory scrutiny, or public backlash that damages brand reputation and stakeholder trust.
