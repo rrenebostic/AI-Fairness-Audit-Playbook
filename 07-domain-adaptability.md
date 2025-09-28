@@ -2,6 +2,14 @@
 
 <img width="588" height="374" alt="image" src="https://github.com/user-attachments/assets/bd7d2118-e67c-4b61-93d9-f6ffeb54cd40" />
 
+<br>
+<br>
+
+_Disclaimer:_
+
+_This AI Fairness Audit playbook is intended for educational purposes only. The information contained herein is not a factual account but a hypothetical exercise designed to stimulate discussion and critical thinking._
+
+<br>
 
 ## Introduction ##
 
