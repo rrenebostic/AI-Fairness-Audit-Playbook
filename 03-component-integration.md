@@ -1,5 +1,13 @@
 # AI Fairness Audit: Component Integration Workflow
 
+<br>
+
+_Disclaimer:_
+
+_The data, scenarios, and outcomes presented are for illustrative purposes only. They are not based on real clients or actual events and are intended to demonstrate the potential application of the AI Fairness Audit Playbook._
+
+## Introduction ##
+
 Our proposed Fairness Audit Playbook provides a systematic four-component framework to address AI fairness concerns across our products. This standardized approach replaces ad-hoc fairness assessments with rigorous, repeatable methodology.
 
 ## Component Overview ##
@@ -29,6 +37,8 @@ This workflow is focused on an [**Employment Screening Case Study**](https://git
 The accompanying image illustrates the Component Integration Workflow, which includes three integration points and their respective outputs: **(1) Historical Patterns, (2) Definition Selection, and (3) Bias Source Prioritization.** The outputs for each component are tailored to the employment screening use case.
 
 ### Component 1: Historical Context Assessment Tool ###
+
+_Note:_ _The data is entirely hypothetical. Any action you take upon the informationis strictly at your own risk, and there is no liability for any losses or damages in connection with its use._
 
 ***Historical Pattern Integration Point***
 
@@ -66,8 +76,6 @@ Each historical pattern receives quantitative risk scoring as noted in the image
 - **Low (1-5):** No immediate action needed
 
 ### Historical Pattern Risk Classification Matrix ###
-
-
 
 <img width="620" height="324" alt="image" src="https://github.com/user-attachments/assets/d6832203-617e-4a4f-8c5f-40d825b6552a" />
 
