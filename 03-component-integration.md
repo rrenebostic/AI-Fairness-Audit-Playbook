@@ -23,13 +23,18 @@ Our proposed Fairness Audit Playbook provides a systematic four-component framew
 
 ### Integration Points: ###
 
-Three critical integration mechanisms ensure analytical coherence. 
+This workflow is focused on an [**Employment Screening Case Study**](https://github.com/rrenebostic/AI-Fairness-Audit-Playbook/blob/main/03-case-study.md) involving a large retail company that has adopted an AI-powered algorithm to screen job applicants for customer service positions across multiple states. The system evaluates application materials and predicts candidate success based on historical performance data from current employees. This process significantly impacts which candidates are selected for interviews prior to Human Resources review.
+
+The accompanying image illustrates the Component Integration Workflow, which includes three integration points and their respective outputs: **(1) Historical Patterns, (2) Definition Selection, and (3) Bias Source Prioritization.** The outputs for each component are tailored to the employment screening use case.
+
+Three critical integration mechanisms ensure analytical coherence.
 
 - **Historical Patterns from Component 1** directly inform fairness definition priorities in Component 2, providing a practical and structured methodology for engineering teams to select, document, and implement appropriate fairness definitions for their specific AI systems.
   
 - **Definition Selection from Component 2** focus bias detection efforts in Component 3 for identifying and mitigating bias throughout the entire machine learning lifecycle.
   
 - **Bias source prioritization from Component 3** determine targeted metric implementation in **Component 4**, which helps engineering teams to select, implement, and interpret appropriate fairness metrics.
+  
 <br/>
 <br/>
 
@@ -38,9 +43,6 @@ Three critical integration mechanisms ensure analytical coherence.
 <br/>
 <br/>
 
-This workflow is focused on an [**Employment Screening Case Study**](https://github.com/rrenebostic/AI-Fairness-Audit-Playbook/blob/main/03-case-study.md) involving a large retail company that has adopted an AI-powered algorithm to screen job applicants for customer service positions across multiple states. The system evaluates application materials and predicts candidate success based on historical performance data from current employees. This process significantly impacts which candidates are selected for interviews prior to Human Resources review.
-
-The accompanying image illustrates the Component Integration Workflow, which includes three integration points and their respective outputs: **(1) Historical Patterns, (2) Definition Selection, and (3) Bias Source Prioritization.** The outputs for each component are tailored to the employment screening use case.
 
 ### Component 1: Historical Context Assessment Tool ###
 
@@ -115,15 +117,15 @@ In the image below, the decision tree systematically guides fairness definition 
 <br/>
 <br/>
 
-<img width="1357" height="397" alt="image" src="https://github.com/user-attachments/assets/9c915f0b-f668-46d0-86ef-6fbe61f607d4" />
+<img width="2074" height="609" alt="image" src="https://github.com/user-attachments/assets/57d253e8-add5-4920-af6f-8d1d69eb3f7d" />
 
 <br/>
 <br/>
+<br>
 
+**Business Implications:** The decision tree establishes a two-part fairness framework. The primary focus is on Equal Opportunity, which ensures that qualified candidates have equal chances. The secondary focus is on Demographic Parity, which involves monitoring overall representation. This combination effectively addresses issues of systematic exclusion and aids in talent identification while ensuring compliance with legal regulations.
 
-**Business Implications:** The decision tree produces a two-part fairness framework: Equal Opportunity as the primary definition (ensuring qualified candidates get equal chances) and Demographic Parity as secondary monitoring (tracking overall representation). This combination addresses both systematic exclusion and talent identification objectives while maintaining legal compliance.
-
-**Implementation Impact:** This systematic approach replaces subjective fairness choices with evidence-based selection, creating audit trails for regulatory compliance and ensuring consistent methodology across all AI hiring systems. The tree's logic directly connects historical evidence to technical requirements, providing clear rationale for any fairness interventions and their associated costs.
+**Implementation Impact:** This systematic approach replaces subjective decisions about fairness with evidence-based selection processes. It creates audit trails for regulatory compliance and ensures that the methodology is consistent across all AI hiring systems. The logic of the decision tree connects historical evidence to technical requirements, providing a clear rationale for any fairness interventions and their associated costs.
 
 ### Component 3: Bias Source Identification Tool ###
 
@@ -140,9 +142,17 @@ Each bias source receives priority scoring using five dimensions: severity of po
 
 ### Bias Source Prioritization Table Overview ###
 
-The Bias Source Prioritization table below presents the systematic assessment of three critical bias sources identified in the Employment Screening Algorithm case study for an AI-powered resume screening system used in software engineering hiring. Each bias source has been evaluated across four key dimensions: **Severity** (potential harm if unaddressed), **Persistence** (whether effects compound over time through feedback loops), **Historical Alignment** (connection to documented discrimination patterns), and **Intervention Feasibility** (relative ease of implementation). 
+The Bias Source Prioritization table below presents a systematic evaluation of three key sources of bias identified in the Employment Screening Algorithm case study for an AI-powered resume screening system used in software engineering hiring. Each bias source has been assessed across four important dimensions: 
 
-The **priority scores** guide resource allocation and intervention sequencing ensure that the most critical fairness risks receive immediate attention while maintaining practical implementation considerations. This assessment directly builds upon the Historical Context Assessment findings that revealed gender and age discrimination patterns in tech hiring, and supports the team's commitment to equal opportunity as their primary fairness definition.
+- **Severity** (potential harm if unaddressed), 
+
+- **Persistence** (whether effects compound over time through feedback loops), 
+
+- **Historical Alignment** (connection to documented discrimination patterns), and 
+
+- **Intervention Feasibility** (relative ease of implementation). 
+
+The **priority scores** help guide resource allocation and intervention sequencing, ensuring that the most critical fairness risks receive immediate attention while also considering practical implementation concerns. This assessment directly builds upon the findings from the Historical Context Assessment, which revealed patterns of gender and age discrimination in tech hiring. It supports the team's commitment to equal opportunity as the primary definition of fairness.
 
 <br/>
 
@@ -157,5 +167,4 @@ The Fairness Metrics Tool translates selected fairness definitions into quantita
 
 **Iterative Refinement:**
 
-Quantitative results from Component 4 enable evidence-based refinement across all previous components, transforming fairness assessment from linear checklist into adaptive learning process. When metrics reveal unexpected disparities or validate suspected bias patterns, teams systematically revisit earlier phases to update historical risk assessments, revise fairness definition selections, or adjust bias source prioritization based on empirical findings rather than initial assumptions.
-
+The quantitative results from Component 4 facilitate evidence-based refinement across all previous components, transforming fairness assessment from a linear checklist into an adaptive learning process. When the metrics reveal unexpected disparities or confirm suspected bias patterns, teams systematically revisit earlier phases. This allows them to update historical risk assessments, revise their selections of fairness definitions, or adjust the prioritization of bias sources based on empirical findings rather than initial assumptions.
