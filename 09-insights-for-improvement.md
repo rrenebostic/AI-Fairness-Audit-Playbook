@@ -31,7 +31,7 @@ The consequences of these decisions can be substantial. Organizations may:
 
 ## Recommendations Moving Forward ##
 
-The next iteration of the playbook needs to provide clear frameworks for understanding impossibility theorems in intersectional contexts. **This involves developing structured methodologies** for: 
+The next iteration of the playbook needs to provide clear frameworks for understanding impossibility theorems in intersectional contexts. This involves **developing structured methodologies** for: 
 
 - Identifying which fairness trade-offs are mathematically necessary versus those chosen by the organization. 
 
