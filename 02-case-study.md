@@ -10,7 +10,7 @@
 
 _Disclaimer:_
 
-_The data, scenarios, and outcomes presented in this case study are for illustrative purposes only. They are not based on real clients or actual events and are intended to demonstrate the potential application of our solution._
+_This case study is intended for educational purposes only. The information contained herein is not a factual account but a hypothetical exercise designed to stimulate discussion and critical thinking._
 
 <br>
 
