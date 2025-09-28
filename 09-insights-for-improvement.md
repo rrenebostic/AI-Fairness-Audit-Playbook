@@ -1,4 +1,4 @@
-# AI Fairness Audit: Insights for Improvement #
+# Chapter 8: Insights for Improvement #
 
 <img width="503" height="4346" alt="image" src="https://github.com/user-attachments/assets/b5602c16-2666-4e89-9126-af1bc92e9318" />
 
