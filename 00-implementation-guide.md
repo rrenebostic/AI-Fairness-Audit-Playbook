@@ -5,13 +5,13 @@
 
 ##  Introduction ##
 
-The AI Fairness Audit Playbook provides a comprehensive 8-chapter framework for systematically evaluating AI systems for bias and fairness issues. Built around four core components—Historical Context Assessment, Fairness Definition Selection, Bias Source Identification, and Comprehensive Metrics—the playbook addresses framework integration, practical implementation, validation approaches, intersectional considerations, domain adaptability, and organizational deployment. This standardized methodology transforms theoretical fairness concepts into actionable workflows that preserve scientific rigor while accommodating diverse organizational contexts and technical requirements.
+The AI Fairness Audit Playbook provides a detailed, eight-chapter framework for systematically evaluating AI systems for bias and fairness issues. It focuses on four essential components: Historical Context Assessment, Fairness Definition Selection, Bias Source Identification, and Comprehensive Metrics. The playbook covers various aspects, including framework integration, practical implementation, validation approaches, consideration of intersectionality, adaptability across different domains, and organizational deployment. This standardized methodology turns theoretical concepts of fairness into actionable workflows that maintain scientific rigor while accommodating a range of organizational contexts and technical requirements.
 
 ## Key Decision Points ##
 
 **Framework Integration:** Begin with Historical Context Assessment to identify discrimination patterns, proceed through Fairness Definition Selection to establish appropriate criteria, apply Bias Source Identification using the priority calculation formula [(Severity × 0.3) + (Scope × 0.2) + (Persistence × 0.2) + (Historical Alignment × 0.2) + (Intervention Feasibility × 0.1)], and conclude with Comprehensive Metrics for quantitative validation.
 
-**Intersectional Analysis:** Monitor system performance across demographic intersections rather than aggregate groups, acknowledging that mathematical incompatibilities between fairness definitions become more pronounced when examining multiple protected attributes simultaneously. Address smaller sample sizes at intersections through Bayesian approaches with weakly informative priors.
+**Intersectional Analysis:** Analyze system performance across demographic intersections instead of aggregate groups, recognizing that mathematical incompatibilities in fairness definitions become more apparent when considering multiple protected attributes together. Address smaller sample sizes at these intersections using [Bayesian estimation](https://pmc.ncbi.nlm.nih.gov/articles/PMC4357639/).
 
 **Domain Adaptability:** Customize the framework across healthcare, finance, and other domains by adjusting fairness definitions to sector-specific requirements while maintaining core methodological principles. Adapt metrics selection based on problem types (classification, regression, ranking) using the decision tree methodology.
 
