@@ -38,7 +38,7 @@ The market forces driving fairness assessment are observed from multiple directi
 
 **Financial Performance:** Organizations that invest in AI fairness practices report tangible business benefits. According to a McKinsey's Global AI Trust Maturity Survey, companies investing in responsible AI report improved business efficiency and cost reductions (42%), increased consumer trust (34%), enhanced brand reputation (29%), and fewer AI incidents (22%).
 
-Business Case
+## Business Case ##
 
 The Fairness Audit Playbook provides measurable returns through four key value drivers. The most significant benefit comes from **risk mitigation**, which helps avoid regulatory fines, legal costs, and reputational damage caused by biased AI systems. It also prevents expensive product recalls or system rollbacks that may arise from fairness issues. 
 
@@ -46,7 +46,7 @@ The Fairness Audit Playbook provides measurable returns through four key value d
 
 Additionally, **revenue protection and growth** help maintain customer trust and retention. It enables access to markets that require fairness certifications and improves product quality, ultimately leading to better user engagement.
 
-The total implementation costs amount to $405,000 over three years, including $215,000 for initial deployment and $95,000 annually for maintenance. Total benefits are projected to reach $2.46 million. This figure includes, but is not limited to:
+The total implementation costs amount to $405,000 over three years, including $215,000 for initial deployment and $95,000 annually for maintenance. **Total benefits** are projected to reach $2.46 million. This figure includes, but is not limited to:
 
 - $950,000 in avoided legal costs,
 - $680,000 in reputational protection,
