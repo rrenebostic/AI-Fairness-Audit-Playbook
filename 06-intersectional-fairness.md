@@ -1,7 +1,13 @@
 # Chapter 5: Intersectional Fairness #
 
 <img width="594" height="399" alt="image" src="https://github.com/user-attachments/assets/e1fe67ed-a530-4f02-9802-605320fd209c" />
+<br>
+<br>
 
+_Disclaimer:_
+
+_This AI Fairness Audit playbook is intended for educational purposes only. The information contained herein is not a factual account but a hypothetical exercise designed to stimulate discussion and critical thinking._
+<br>
 
 ## Introduction ##
 
