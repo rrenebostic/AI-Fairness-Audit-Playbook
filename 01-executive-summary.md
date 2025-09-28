@@ -40,6 +40,8 @@ The market forces driving fairness assessment are observed from multiple directi
 
 ## Business Case ##
 
+_Note:_ _The data is entirely hypothetical. Any action you take upon the informationis strictly at your own risk, and there is no liability for any losses or damages in connection with its use._
+
 The Fairness Audit Playbook provides measurable returns through four key value drivers. The most significant benefit comes from **risk mitigation**, which helps avoid regulatory fines, legal costs, and reputational damage caused by biased AI systems. It also prevents expensive product recalls or system rollbacks that may arise from fairness issues. 
 
 **Efficiency gains** come from standardizing fairness assessments across teams, which eliminates ad-hoc approaches and reduces dependency on external consultants for routine audits. This standardization accelerates time-to-deployment through clear guidelines.
