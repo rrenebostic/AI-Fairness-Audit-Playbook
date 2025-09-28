@@ -3,7 +3,6 @@
 <br>
 
 _Note:_ _Any data, figures, or results shown are purely hypothetical and should not be relied upon as factual representations of past performance or future results._
-
 <br>
 
 ## Executive Summary ##
