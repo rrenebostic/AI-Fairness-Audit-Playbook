@@ -12,8 +12,6 @@ Buolamwini, Joy, and Timnit Gebru. "Gender Shades: Intersectional Accuracy Dispa
 
 Chouldechova, Alexandra. "Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments." Big Data, vol. 5, no. 2, 2017, pp. 153-163, https://doi.org/10.1089/big.2016.0047.
 
-Daly, Robert. “Business people having meeting in conference room.” istockphoto, https://www.istockphoto.com/photo/business-people-having-meeting-in-in-conference-room-smiling-and-discussing-gm530685891-530685891?searchscope=image%2Cfilm.
-
 D'Amour, Alexander, et al. "Fairness Is Not Static: Deeper Understanding of Long Term Fairness via Simulation Studies." Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, 2020, pp. 525-534, https://dl.acm.org/doi/10.1145/3351095.3372878.
 
 Department of Justice Civil Rights Division, et al. "Joint Statement on Enforcement Efforts Against Discrimination and Bias in Automated Systems." Federal Trade Commission, 25 Apr. 2023, www.ftc.gov/system/files/ftc_gov/pdf/EEOC-CRT-FTC-CFPB-AI-Joint-Statement(final).pdf.
@@ -52,7 +50,9 @@ Madaio, Michael A., et al. "Co-Designing Checklists to Understand Organizational
 
 Mansoury, Masoud, et al. "Feedback Loop and Bias Amplification in Recommender Systems." Proceedings of the 29th ACM International Conference on Information & Knowledge Management, 2020, pp. 2145-2148, https://dl.acm.org/doi/10.1145/3340531.3412152.
 
-Metamorworks. “Young woman working in the night office.” istockphoto, https://www.istockphoto.com/photo/young-woman-working-in-the-night-office-system-engineering-digital-transformation-gm1315733406-403646688?searchscope=image%2Cfilm
+Metamorworks. “Young woman working in the night office.” istockphoto, https://www.istockphoto.com/photo/young-woman-working-in-the-night-office-system-engineering-digital-transformation-gm1315733406-403646688?searchscope=image%2Cfilm.
+
+monkeybusinessimages. “Relaxed moment at an evening corporate business meeting.” istockphoto, https://www.istockphoto.com/photo/relaxed-moment-at-an-evening-corporate-business-meeting-gm639466730-115263463?searchscope=image%2Cfilm.
 
 Napkin AI. Napkin AI, 2025, https://napkin.ai. AI-powered visual communication platform.
 
