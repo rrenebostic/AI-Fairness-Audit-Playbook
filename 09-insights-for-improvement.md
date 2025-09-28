@@ -2,6 +2,15 @@
 
 <img width="503" height="4346" alt="image" src="https://github.com/user-attachments/assets/b5602c16-2666-4e89-9126-af1bc92e9318" />
 
+<br>
+<br>
+
+_Disclaimer:_
+
+_This AI Fairness Audit playbook is intended for educational purposes only. The information contained herein is not a factual account but a hypothetical exercise designed to stimulate discussion and critical thinking._
+
+<br>
+
 # Addressing the Impossibility Theorem Gap
 
 ## The Critical Gap in Current Fairness Practice ##
