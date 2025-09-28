@@ -1,4 +1,4 @@
-# AI Fairness Audit: Component Integration Workflow
+# Chapter 3: Component Integration Workflow
 
 <br>
 
