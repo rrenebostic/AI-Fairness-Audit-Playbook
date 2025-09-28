@@ -1,6 +1,7 @@
 # AI Fairness Audit: Executive Overview
 
-<img width="474" height="294" alt="image" src="https://github.com/user-attachments/assets/856967fc-f713-4114-8c2b-0a662c5f97da" />
+<img width="568" height="386" alt="image" src="https://github.com/user-attachments/assets/2874c3c5-48b1-4dee-aeee-84235f35e534" />
+
 <br>
 <br>
 
