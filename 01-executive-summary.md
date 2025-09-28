@@ -1,9 +1,14 @@
 # AI Fairness Audit: Executive Overview
 
+<br>
+<br>
+
 _Disclaimer:_
 
 _This AI Fairness Audit playbook is intended for educational purposes only. The information contained herein is not a factual account but a hypothetical exercise designed to stimulate discussion and critical thinking._
 
+<br>
+<br>
 
 <img width="593" height="366" alt="image" src="https://github.com/user-attachments/assets/856967fc-f713-4114-8c2b-0a662c5f97da" />
 
