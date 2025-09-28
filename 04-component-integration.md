@@ -117,7 +117,7 @@ In the image below, the decision tree systematically guides fairness definition 
 <br/>
 <br/>
 
-<img width="2074" height="609" alt="image" src="https://github.com/user-attachments/assets/57d253e8-add5-4920-af6f-8d1d69eb3f7d" />
+<img width="2214" height="1083" alt="image" src="https://github.com/user-attachments/assets/dd661add-2eea-4a89-a89e-add1c4d8d3f3" />
 
 <br/>
 <br/>
