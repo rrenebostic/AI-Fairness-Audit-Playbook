@@ -11,7 +11,6 @@
 _Disclaimer:_
 
 _This case study is intended for educational purposes only. The information contained herein is not a factual account but a hypothetical exercise designed to stimulate discussion and critical thinking._
-
 <br>
 
 ## Scenario Context ##
