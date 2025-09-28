@@ -1,5 +1,7 @@
 # Chapter 1: Implementation Guide #
 
+
+<img width="593" height="371" alt="image" src="https://github.com/user-attachments/assets/48a9ef4e-16d5-4d23-a264-5e7b9068126a" />
 <br>
 <br>
 
@@ -8,10 +10,6 @@ _Disclaimer:_
 _This AI Fairness Audit playbook is intended for educational purposes only. The information contained herein is not a factual account but a hypothetical exercise designed to stimulate discussion and critical thinking._
 
 <br>
-<br>
-
-<img width="593" height="371" alt="image" src="https://github.com/user-attachments/assets/48a9ef4e-16d5-4d23-a264-5e7b9068126a" />
-
 
 ##  Introduction ##
 
