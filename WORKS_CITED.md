@@ -62,6 +62,8 @@ Suresh, Harini, and John V. Guttag. "A Framework for Understanding Sources of Ha
 
 Turing College. "Sprint 1: Foundational Concepts of Fairness in AI." AI Ethics Course, 2025, https://www.turingcollege.com.
 
+van de Schoot R, Broere JJ, Perryck KH, Zondervan-Zwijnenburg M, van Loey NE. Analyzing small data sets using Bayesian estimation: the case of posttraumatic stress symptoms following mechanical ventilation in burn survivors. Eur J Psychotraumatol. 2015 Mar 11;6:25216. doi: 10.3402/ejpt.v6.25216. PMID: 25765534; PMCID: PMC4357639.
+
 Veale, Michael, and Reuben Binns. "Fairer Machine Learning in the Real World: Mitigating Discrimination Without Collecting Sensitive Data." Big Data & Society, vol. 4, no. 2, 2017, pp. 2053951717743530, https://doi.org/10.1177/2053951717743530.
 
 Veale, Michael, et al. "Fairness and Accountability Design Needs for Algorithmic Support in High-Stakes Public Sector Decision-Making." Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, 2018, pp. 1-14, https://doi.org/10.1145/3173574.3174014.
