@@ -1,4 +1,4 @@
-# AI Fairness Audit: Employment Screening Case Study #
+# Chapter 2: Employment Screening Case Study #
 
 
 <img width="509" height="246" alt="image" src="https://github.com/user-attachments/assets/74e6d6cd-496b-407c-a599-787cbe77066f" />
