@@ -75,5 +75,3 @@ Wachter, Sandra, et al. "Why Fairness Cannot Be Automated: Bridging the Gap Betw
 Yang, Kai, et al. "Towards Fairer Datasets: Filtering and Balancing the Distribution of the People Subtree in the ImageNet Hierarchy." Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, 2020, pp. 547-558, https://dl.acm.org/doi/10.1145/3351095.3375709.
 
 Yang, Qian, et al. "Re-Examining Whether, Why, and How Human-AI Interaction Is Uniquely Difficult to Design." Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 2020, pp. 1-13, https://doi.org/10.1145/3313831.3376301.
-
-Zhang, Jingchen, and Jessica Walsh. "Bootstrap Confidence Intervals for Fairness Metrics." Journal of Statistical Computation and Simulation, vol. 91, no. 16, 2021, pp. 3225-3244, https://doi.org/10.1080/00949655.2021.1913218.
