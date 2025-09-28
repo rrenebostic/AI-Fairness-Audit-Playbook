@@ -7,7 +7,6 @@
 _Disclaimer:_
 
 _This AI Fairness Audit playbook is intended for educational purposes only. The information contained herein is not a factual account but a hypothetical exercise designed to stimulate discussion and critical thinking._
-
 <br>
 
 ## The Underlying Problem of Algorithmic Bias ##
