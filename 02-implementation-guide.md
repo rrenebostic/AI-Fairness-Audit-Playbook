@@ -5,7 +5,7 @@
 
 ##  Introduction ##
 
-The AI Fairness Audit Playbook provides a detailed, eight-chapter framework for systematically evaluating AI systems for bias and fairness issues. It focuses on four essential components: Historical Context Assessment, Fairness Definition Selection, Bias Source Identification, and Comprehensive Metrics. The playbook covers various aspects, including framework integration, practical implementation, validation approaches, consideration of intersectionality, adaptability across different domains, and organizational deployment. This standardized methodology turns theoretical concepts of fairness into actionable workflows that maintain scientific rigor while accommodating a range of organizational contexts and technical requirements.
+The AI Fairness Audit Playbook provides a detailed, nine-chapter framework for systematically evaluating AI systems for bias and fairness issues. It focuses on four essential components: Historical Context Assessment, Fairness Definition Selection, Bias Source Identification, and Comprehensive Metrics. The playbook covers various aspects, including framework integration, practical implementation, validation approaches, consideration of intersectionality, adaptability across different domains, and organizational deployment. This standardized methodology turns theoretical concepts of fairness into actionable workflows that maintain scientific rigor while accommodating a range of organizational contexts and technical requirements.
 
 ## Key Decision Points ##
 
