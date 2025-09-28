@@ -23,7 +23,13 @@ Our proposed Fairness Audit Playbook provides a systematic four-component framew
 
 ### Integration Points: ###
 
-Three critical integration mechanisms ensure analytical coherence. Historical patterns from **Component 1** directly inform fairness definition priorities in Component 2, providing a practical and structured methodology for engineering teams to select, document, and implement appropriate fairness definitions for their specific AI systems. Selected definitions from **Component 2** focus bias detection efforts in Component 3 for identifying and mitigating bias throughout the entire machine learning lifecycle. Priority bias sources from **Component 3** determine targeted metric implementation in **Component 4**, which helps engineering teams to select, implement, and interpret appropriate fairness metrics.
+Three critical integration mechanisms ensure analytical coherence. 
+
+- **Historical Patterns from Component 1** directly inform fairness definition priorities in Component 2, providing a practical and structured methodology for engineering teams to select, document, and implement appropriate fairness definitions for their specific AI systems.
+  
+- **Definition Selection from Component 2** focus bias detection efforts in Component 3 for identifying and mitigating bias throughout the entire machine learning lifecycle.
+  
+- **Bias source prioritization from Component 3** determine targeted metric implementation in **Component 4**, which helps engineering teams to select, implement, and interpret appropriate fairness metrics.
 <br/>
 <br/>
 
@@ -109,7 +115,7 @@ In the image below, the decision tree systematically guides fairness definition 
 <br/>
 <br/>
 
-<img width="1133" height="1009" alt="image" src="https://github.com/user-attachments/assets/d8b267c2-5631-4fa8-bc1c-1b3ca7485f70" />
+<img width="1357" height="397" alt="image" src="https://github.com/user-attachments/assets/9c915f0b-f668-46d0-86ef-6fbe61f607d4" />
 
 <br/>
 <br/>
