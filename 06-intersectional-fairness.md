@@ -39,7 +39,7 @@ Intersectional bias emerges from sources invisible to single-attribute analysis.
 
 Extend bias taxonomies to include intersectional bias sources. Examine data collection for intersectional representation gaps—identify demographic combinations underrepresented in training data. Analyze feature correlations that might disproportionately impact intersectional groups through proxy variables. Implement detection techniques that identify disparate impact on intersectional combinations, such as subgroup fairness auditing and intersectional disparity testing that wouldn't be detected through single-attribute analysis.
 
-### Component 4: Fairness Metrics ###
+### Component 4: Comprehensive Metrics ###
 
 Traditional fairness metrics calculated separately for protected attributes miss intersectional disparities. Metrics frameworks must evaluate fairness across relevant intersectional combinations while managing statistical challenges of potentially small subgroup sizes.
 
