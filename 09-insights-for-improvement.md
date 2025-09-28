@@ -6,9 +6,9 @@
 
 ## The Critical Gap in Current Fairness Practice ##
 
-Intersectional analysis represents the most significant gap in current AI fairness frameworks. As demonstrated in the education platform case study, the most severe bias effects consistently occur at demographic intersection. For example, female students from lower socioeconomic backgrounds experienced the most decline in advanced content recommendations, a pattern invisible when analyzing gender or socioeconomic status independently. This phenomenon extends across domains: facial recognition systems achieving 95% accuracy for light-skinned males but only 65.3% for dark-skinned females, and hiring algorithms appearing fair across racial and gender groups separately while discriminating against women of color.
+Intersectional analysis represents the most significant gap in current AI fairness frameworks. As demonstrated in the Employment Screening case study, the most severe bias effects consistently occur at demographic intersections. For example, female students from lower socioeconomic backgrounds experienced the most significant decline in advanced content recommendations, a pattern that was not visible when analyzing gender or socioeconomic status independently. This phenomenon extends across domains: facial recognition systems achieving 95% accuracy for light-skinned males but only 65.3% for dark-skinned females, and hiring algorithms appearing fair across racial and gender groups separately while discriminating against women of color.
 
-The current Fairness Audit Playbook treats intersectionality as an additional consideration rather than a foundational framework. More critically, it fails to address the fundamental mathematical reality that constrains all fairness work: **the impossibility theorem.**
+The current Fairness Audit Playbook treats intersectionality as an additional consideration rather than a foundational framework for addressing diversity. More critically, it only skims the surface of the fundamental mathematical reality that constrains all fairness work: **the impossibility theorem.**
 
 ## The Impossibility Theorem Problem ##
 
