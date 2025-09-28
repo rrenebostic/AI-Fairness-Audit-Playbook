@@ -12,6 +12,8 @@ Buolamwini, Joy, and Timnit Gebru. "Gender Shades: Intersectional Accuracy Dispa
 
 Chouldechova, Alexandra. "Fair Prediction with Disparate Impact: A Study of Bias in Recidivism Prediction Instruments." Big Data, vol. 5, no. 2, 2017, pp. 153-163, https://doi.org/10.1089/big.2016.0047.
 
+Daly, Robert. “Business people having meeting in conference room.” istockphoto, https://www.istockphoto.com/photo/business-people-having-meeting-in-in-conference-room-smiling-and-discussing-gm530685891-530685891?searchscope=image%2Cfilm.
+
 D'Amour, Alexander, et al. "Fairness Is Not Static: Deeper Understanding of Long Term Fairness via Simulation Studies." Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, 2020, pp. 525-534, https://dl.acm.org/doi/10.1145/3351095.3372878.
 
 Department of Justice Civil Rights Division, et al. "Joint Statement on Enforcement Efforts Against Discrimination and Bias in Automated Systems." Federal Trade Commission, 25 Apr. 2023, www.ftc.gov/system/files/ftc_gov/pdf/EEOC-CRT-FTC-CFPB-AI-Joint-Statement(final).pdf.
@@ -20,7 +22,11 @@ Dwork, Cynthia, et al. "Fairness Through Awareness." Proceedings of the 3rd Inno
 
 Ekstrand, Michael D., et al. "All the Cool Kids, How Do They Fit In?: Popularity and Demographic Biases in Recommender Evaluation and Effectiveness." Proceedings of the 1st Conference on Fairness, Accountability and Transparency, 2018, pp. 172-186, https://proceedings.mlr.press/v81/ekstrand18b.html.
 
+EmirMemedovski. “Disabled computer programmer discussing with female coworker in office hallway stock photo.” istockphoto, https://www.istockphoto.com/photo/disabled-computer-programmer-discussing-with-female-coworker-in-office-hallway-gm1312314652-401160328.
+
 Ensign, Danielle, et al. "Runaway Feedback Loops in Predictive Policing." Proceedings of the 1st Conference on Fairness, Accountability and Transparency, 2018, pp. 160-171, https://proceedings.mlr.press/v81/ensign18a.html.
+
+fizkes, “Smiling middle-aged female job applicant making first impression at interview.” istockphoto, https://www.istockphoto.com/photo/smiling-middle-aged-female-job-applicant-making-first-impression-at-interview-gm1129629327-298476162?searchscope=image%2Cfilm
 
 Friedler, Sorelle A., et al. "A Comparative Study of Fairness-Enhancing Interventions in Machine Learning." Proceedings of the Conference on Fairness, Accountability, and Transparency, 2019, pp. 329-338, https://dl.acm.org/doi/10.1145/3287560.3287589.
 
@@ -46,11 +52,15 @@ Madaio, Michael A., et al. "Co-Designing Checklists to Understand Organizational
 
 Mansoury, Masoud, et al. "Feedback Loop and Bias Amplification in Recommender Systems." Proceedings of the 29th ACM International Conference on Information & Knowledge Management, 2020, pp. 2145-2148, https://dl.acm.org/doi/10.1145/3340531.3412152.
 
+Metamorworks. “Young woman working in the night office.” istockphoto, https://www.istockphoto.com/photo/young-woman-working-in-the-night-office-system-engineering-digital-transformation-gm1315733406-403646688?searchscope=image%2Cfilm
+
 Napkin AI. Napkin AI, 2025, https://napkin.ai. AI-powered visual communication platform.
 
 Ogbonnaya-Ogburu, Ihudiya Finda, et al. "Critical Race Theory for HCI." Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems, 2020, pp. 1-16, https://doi.org/10.1145/3313831.3376392.
 
 O'Neil, Cathy. Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Crown Publishing Group, 2016.
+
+PeopleImages. “Portrait of confident young business people standing inside of the office at work during the day.” istockphoto,  https://www.istockphoto.com/photo/this-team-will-make-the-company-grow-gm1053462184-281452930?searchscope=image%2CfilmIstockphoto. 
 
 Sambasivan, Nithya, et al. "'Everyone Wants to Do the Model Work, Not the Data Work': Data Cascades in High-Stakes AI." Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems, 2021, pp. 1-15, https://doi.org/10.1145/3411764.3445518.
 
@@ -70,7 +80,11 @@ Veale, Michael, et al. "Fairness and Accountability Design Needs for Algorithmic
 
 Wachter, Sandra, et al. "Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI." Computer Law & Security Review, vol. 41, 2021, pp. 105567, https://doi.org/10.1016/j.clsr.2021.105567.
 
+WhiteStockVideo. “Close up on filling out job application form.” istockphoto, https://www.istockphoto.com/video/young-black-african-man-filling-out-employment-application-form-by-hand-gm2032043799-562076254?searchscope=image%2Cfilm
+
 "Why Intersectional Equity Matters." EDGE Certification, EDGE Certified Foundation, 23 Mar. 2023, www.edge-cert.org/article/what-is-meant-by-intersectional-equity-and-why-does-it-matter/. Accessed 25 Sept. 2025.
+
+Yalanskyl, Andril. “Network of interconnected people.” istockphoto, https://www.istockphoto.com/photo/network-of-interconnected-people-interactions-between-employees-and-working-groups-gm1321965054-408067028.
 
 Yang, Kai, et al. "Towards Fairer Datasets: Filtering and Balancing the Distribution of the People Subtree in the ImageNet Hierarchy." Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency, 2020, pp. 547-558, https://dl.acm.org/doi/10.1145/3351095.3375709.
 
