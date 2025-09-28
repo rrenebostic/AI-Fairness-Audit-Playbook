@@ -1,6 +1,8 @@
 # Chapter 6: Domain Adaptability #
 
-<img width="588" height="374" alt="image" src="https://github.com/user-attachments/assets/bd7d2118-e67c-4b61-93d9-f6ffeb54cd40" />
+<img width="544" height="344" alt="image" src="https://github.com/user-attachments/assets/8d7c8251-1b9d-45e5-b698-c9cdfc0ebc26" />
+
+
 
 <br>
 <br>
