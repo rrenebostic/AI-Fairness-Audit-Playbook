@@ -1,4 +1,4 @@
-# AI Fairness Audit: Organizational Implementation
+# Chapter 7: Organizational Implementation
 
 <img width="571" height="429" alt="image" src="https://github.com/user-attachments/assets/5aece94f-39dd-4435-978a-edf8fca02112" />
 
