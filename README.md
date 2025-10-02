@@ -45,6 +45,8 @@ Insights on continuous improvement and how the playbook can be enhanced over tim
 
 The Business Case provides the justification for the AI Fairness Audit with the accompanying Return on Investment (ROI) to present financial evidence that it is a worthwhile investment.
 
+[**Works Cited**](https://github.com/rrenebostic/AI-Fairness-Audit-Playbook/blob/main/WORKS_CITED.md)
+
 
 ## Getting Started ##
 
